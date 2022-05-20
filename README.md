@@ -4,14 +4,14 @@ The input file will be given as a command argument, and the answer will be writt
 
 Input file format:
 
-int numVertices
-int numEdges
-int ver1, ver2, weight
-int ver1, ver2, weight
-.
-.
-.
-int ver1, ver2(edge to remove)
+- int numVertices
+- int numEdges
+- int ver1, ver2, weight
+- int ver1, ver2, weight
+- .
+- .
+- .
+- int ver1, ver2(edge to remove)
 
 In the project we used the following Data Structures:
 
